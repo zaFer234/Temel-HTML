@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 40px;
+    width: 100%;
+    text-align: center;
+}
+
+li a{
+    background-color:wheat;
+    border: 10px solid brown;
+    text-decoration: none;
+    display: block;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+
+.resim {
+    background:transparent;
+    padding:8px;
+    border:1px solid #ccc;
+    box-shadow:5px 5px 5px #999; 
+    width: 750px;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em;
+  }
+
+.sitil{
+    margin-top: 250px;
+    margin-left: 250px;
+} 
+
+.borderone{
+    width: 290px;
+    height:290px;
+    padding-top: 50px;
+}
+
+.form{
+    color:aliceblue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: antiquewhite;
+}
